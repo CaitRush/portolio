@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title>Home</title>
-    <style>
-      img {
+  img {
         width: 25%;
       }
 
@@ -59,15 +53,3 @@
         border-color: orange;
         width: 25%;
       }
-  </style>
-  </head>
-  <body>
-      <h1>Welcome!</h1>
-      <p class="purple-text">Everything is fine!</p>
-      <p class="important purple-text">No really, the world is not filled with hopelessness and despair, I promise.</p>
-      <p id="lead-paragraph">The world is a happy and sensible place.</p>
-      <a href="https://storm.wnba.com/">National WNBA Champions, Seattle Storm.</a>
-      <a href="https://imagecomics.com/">Check out some awesome independent comics.</a>
-      <img src="callie-face.png" alt="A very pretty American Staffordshire terrier.">
-  </body>
-  </html>
