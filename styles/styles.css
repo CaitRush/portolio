@@ -5,7 +5,6 @@
 
       p {
         color: black;
-        font-family: "Arial light";
       }
 
       h1 {
@@ -25,8 +24,9 @@
         background-color: #ffc0cb;
       }
 
-      .purple-text {
-        color: rgb(0, 0, 255);
+      /*test this color*/
+      .mauve-text {
+        color: #c327d6;
       }
 
       .important:hover {
