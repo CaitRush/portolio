@@ -1,20 +1,28 @@
-  img {
-        width: 25%;
+
+      html, body{
+        font-family: "Arial light";
       }
 
       p {
-        color: red;
+        color: black;
+        font-family: "Arial light";
       }
 
       h1 {
         color: black;
         border-style: solid;
         border-width: 1px;
-        border-color: red;
+        border-color: black;
+        font-family: "Arial light";
+      }
+
+      h2 {
+        color: black;
+        font-family: "Arial light";
       }
 
       body {
-        background-color: dodgerblue;
+        background-color: #ffc0cb;
       }
 
       .purple-text {
@@ -26,7 +34,7 @@
       }
 
       .important {
-        background-color: pink;
+        background-color: yellow;
       }
 
       p.important {
@@ -34,22 +42,28 @@
       }
 
       #leadparagraph {
-        color: purple;
+        color: blue;
         font-weight: bold;
       }
 
-      a[href="https://imagecomics.com/"] {
-        background-color: orange;
+      a[href="...."] {
+        background-color: yellow;
         padding: 1rem;
       }
 
-      a[href="http://storm.wnba.com/"] {
-        background-color: blue;
+      a[href="...."] {
+        background-color: yellow;
+        padding: 1rem;
       }
 
       img {
-        border-style: dashed;
+        border-style: solid;
         border-width: 3px;
-        border-color: orange;
-        width: 25%;
+        border-color: lightgreen;
+        width: 50%;
+      }
+
+      footer {
+          height: 20px;
+          background-color: lightpink;
       }
