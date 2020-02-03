@@ -1,6 +1,7 @@
 
       html, body{
         font-family: "Arial light";
+        color: black;
       }
 
       p {
@@ -19,7 +20,26 @@
       }
 
       body {
-        background-color: #ffc0cb;
+        background-color: azure;
+      }
+
+      ul {
+        list-style-type: circle;
+        background-color: lightgreen;
+        padding: 20px;
+      }
+
+      ol {
+        background-color: lightgreen;
+        padding: 20px;
+      }
+
+      table, th, td {
+        border: 1px solid black;
+      }
+
+      tr:nth-child(even) {
+        background-color: #f2f2f2;
       }
 
       /*test this color*/
